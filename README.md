@@ -64,10 +64,14 @@ The housing was designed in parts in Fusion 360 and Rhino. The body was printed 
 ![image  housing v2](https://user-images.githubusercontent.com/92102729/167131554-0253ea86-d0e9-44b5-8322-bc6ff2fdce78.JPG)
 
 ### Results
+Imagery of the final floating output device. 
 
 ![MAIN-min](https://user-images.githubusercontent.com/92105497/167135932-6c6d9cba-4d29-41cb-86a6-7f2b246dd093.png)
 
 ![Product GIF](https://user-images.githubusercontent.com/92105497/167135523-e3987371-fa26-4edd-89ed-6c055741ff8b.gif)
+
+
+The interactive dashboard can be accessed via: http://167.99.44.189:1880/ui/
 
 
 ## Learnings
