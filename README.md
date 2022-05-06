@@ -21,16 +21,24 @@ The ideation mainly involved exploring:
 1. Simple Electronic Sensors that could be run with ~3.3V.
 2. Enclosure that could  encapsulate + float + house the circuit safely & compactly.
 
--Sketch 1-
-![First Iteration](https://user-images.githubusercontent.com/92102729/167128495-62129e46-15f4-4406-a582-c8af70b0f4cd.JPG)
 
--Sketch 2-
-![Second Iteration](https://user-images.githubusercontent.com/92102729/167128503-4284e208-4f6a-4f80-b13d-59d298158e48.jpg)
+Iterations of the setup
+![image  collage sketches](https://user-images.githubusercontent.com/92102729/167128960-d62dd52e-09d7-4182-8a57-67d4acc01a20.png)
+
 
 
 ## Process
 
+![image  sketch 1](https://user-images.githubusercontent.com/92102729/167129113-6f1ca219-4ee0-4a78-badd-a755656741e1.png)
 
+![image  setup v1](https://user-images.githubusercontent.com/92102729/167129431-133170ff-f6be-4bb6-9bef-b88d47c169fa.png)
+![image  setup v2 1](https://user-images.githubusercontent.com/92102729/167129547-0c0f8b09-ab1c-46a1-9505-3471b2d84ce0.png)
+![image  setup v3](https://user-images.githubusercontent.com/92102729/167129586-acd61225-6a7f-47eb-8a6e-ef359f743c8d.png)
+
+![image  setup v4](https://user-images.githubusercontent.com/92102729/167129592-26ab0fc8-3112-40c6-9a6e-d45401695ff9.png)
+![image  setup v5](https://user-images.githubusercontent.com/92102729/167129609-b4bafa62-cc13-4289-bef2-bfbbd0684221.png)
+
+![image  setup v6](https://user-images.githubusercontent.com/92102729/167129618-3ae34add-3117-45f9-ac6d-53e9c72c0073.png)
 
 
 
