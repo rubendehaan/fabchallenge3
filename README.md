@@ -65,3 +65,24 @@ Designing & linking a visual LED monitor for Analog sensing in times of Restrict
 Sharing the gathered Knowledge on 'Lemna' to create an incentivised ecosystem and community
 
 Grow more Duckweed and create food-safe + healthy products
+
+## Refrences
+
+Duckweed Nutrition:
+https://www.sciencedirect.com/science/article/abs/pii/S0308814616313565#:~:text=Duckweeds%20contain%2020%E2%80%9335%25%20protein,10%25%20starch%20per%20dry%20weight.&text=Proteins%20constitute%204.8%25%20Lys%2C%202.7,and%207.7%25%20Phe%20%2B%20Tyr.&text=48%E2%80%9371%25%20of%20fat%20are,ratio%20is%200.5%20or%20less.&text=Mineral%20content%20can%20be%20easily,composition%20of%20the%20nutrient%20medium.
+
+Protein Production:
+https://www.sciencedirect.com/science/article/abs/pii/S0960852421018411
+
+Cultivation Setup:
+https://www.sciencedirect.com/science/article/pii/S0959652621044504
+
+ESP + Node:
+https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+https://randomnerdtutorials.com/cloud-mqtt-mosquitto-broker-access-anywhere-digital-ocean/
+
+Display:
+https://create.arduino.cc/projecthub/Mukhin/led-architectural-machin-bb67ba?ref=search&ref_id=sensor%20to%20LED&offset=4
+
+Plant Monitoring System © MIT:
+https://create.arduino.cc/projecthub/ryanjgill2/plant-monitoring-system-88ed2b?_gl=1*1oyd8pd*_ga*NDYzODAxNTYzLjE2NDY4NDE4MjQ.*_ga_NEXN8H46L5*MTY1MTIyODYyNi4zNC4xLjE2NTEyMjg2MzYuMA..
