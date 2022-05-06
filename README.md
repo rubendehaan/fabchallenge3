@@ -1,19 +1,18 @@
 ### Fab Challenge 3
 # Oracle - A Hybrid Medium Monitor
-## Ethical Tool or artefact to Interact and Monitor Relevant Data
+## Ethical tool or artefact to interact + monitor relevant data
 The challenge comprised the developement from the Duckweed Incubator from Term I to a Distributed & Independent Monitoring Sysytem.
 
--Miro Interests-
--Overall Plan Drawing- 
+<img width="1446" alt="Interests" src="https://user-images.githubusercontent.com/92105497/167136577-aaff824a-54bd-461e-894f-8f872a251c0d.png">
+
+![Overall Plan](https://user-images.githubusercontent.com/92105497/167136699-235da5ad-c791-4895-b505-615de6c7a4f5.JPG)
 
 ## Brief
 The Aim was to design a physical module that could sit, embedd or float in a medium to monitor it's health. The data was measured in variables like Ambient Light access, Aerial Temperature, Media Temeperature, Moisture etc, and shared to an online dashboard for universal web access. The main qualities that guided every step and usage of components were the 'hybrid-ness', freedom and transparency of the data captured.
 
--Sensors used and Data captured diagram-
-
 The core aim was to monitor the health for the Duckweeed plants so that athey could be grown in a healthy efficient way, to control the nutrition and strains of protiens grown, for consumption in the later stage. The same system could be used my multiple individuals for any plants or mediums be it, aquatic plants, terrestrial plants or even compost.
 
--Overall Plan- 
+<img width="1162" alt="Micro Plan" src="https://user-images.githubusercontent.com/92105497/167136527-aeecaa52-f796-4fcc-8a2c-95d408d79d9b.png">
 
 ## Ideation
 The ideation mainly involved exploring:
