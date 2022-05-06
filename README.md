@@ -54,7 +54,11 @@ Our first intention was to run Musquitto on a Raspberry Pi to serve as broker fo
 
 
 ![image  setup v1](https://user-images.githubusercontent.com/92102729/167130244-2d97be94-1014-4752-84ba-4ab0360c7091.png)
+
+Due to that the ESP8266 only has one analog pin, we would not be able to read the phototransistor and temperature sensor. Therefore we swapped the ESP8266 for a ESP32, revised the pins, Wifi-setup and MQTT-communication and re-ran the code with both sensor inputs.
 ![image  setup v2](https://user-images.githubusercontent.com/92102729/167131889-a33cc134-3109-4ba6-9ca3-d24d767aa5f2.png)
+![image  setup v2 3](https://user-images.githubusercontent.com/92102729/167133660-4f01707c-f1e0-4882-8a6a-24617737f934.png)
+
 
 -Interaction Protocols-
 
