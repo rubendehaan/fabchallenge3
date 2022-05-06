@@ -29,11 +29,19 @@ The ideation mainly involved exploring:
 
 -Micro Plan-
 
+
+
+
 ### Circuit Evolution
 
 -Circuit Evolution gif- -First test-
 
 The electronics were powered by an ESP32 Huzzah microcontroller and a 5V USB input supporting the form factor and modes of connectivity. The evolution of the circuit occured in phases, with addition of one sensor at a time; starting with Temperature sensor to the Moisture sensor at last.
+
+
+Final  
+![image  setup v6](https://user-images.githubusercontent.com/92102729/167100742-edb46a03-8fa4-4b46-85b6-816ac4c8e586.png)
+
 
 ### Data Monitoring
 
