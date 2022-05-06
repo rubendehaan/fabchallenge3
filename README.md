@@ -22,12 +22,15 @@ The ideation mainly involved exploring:
 2. Enclosure that could  encapsulate + float + house the circuit safely & compactly.
 
 -Sketch 1-
+![First Iteration](https://user-images.githubusercontent.com/92102729/167128495-62129e46-15f4-4406-a582-c8af70b0f4cd.JPG)
+
 -Sketch 2-
--Sketch 3-
+![Second Iteration](https://user-images.githubusercontent.com/92102729/167128503-4284e208-4f6a-4f80-b13d-59d298158e48.jpg)
+
 
 ## Process
 
--Micro Plan-
+
 
 
 
@@ -39,7 +42,7 @@ The ideation mainly involved exploring:
 The electronics were powered by an ESP32 Huzzah microcontroller and a 5V USB input supporting the form factor and modes of connectivity. The evolution of the circuit occured in phases, with addition of one sensor at a time; starting with Temperature sensor to the Moisture sensor at last.
 
 
-Final  
+Version 6 circuitry setup  
 ![image  setup v6](https://user-images.githubusercontent.com/92102729/167100742-edb46a03-8fa4-4b46-85b6-816ac4c8e586.png)
 
 
