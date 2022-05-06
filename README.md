@@ -60,8 +60,6 @@ Due to that the ESP8266 only has one analog pin, we would not be able to read th
 ### Modelling & Fabrication
 The housing was designed in parts in Fusion 360 and Rhino. The body was printed in black-filamented PLA with 0.25% resolution to maintain buoyancy and resistance to any possible wet media; while the top component was laser-cut in 2.9mm acrylic sheet to provide the sensors with access to light and air.
 
-![Form Derivation](https://user-images.githubusercontent.com/92105497/167136880-9b100553-e3cc-4fa2-9fb9-ed723c8950bf.gif)
-
 ![image  housing v1](https://user-images.githubusercontent.com/92102729/167131545-17036342-0d00-4e21-b488-9d7141b45aef.JPG)
 ![image  housing v2](https://user-images.githubusercontent.com/92102729/167131554-0253ea86-d0e9-44b5-8322-bc6ff2fdce78.JPG)
 
