@@ -65,15 +65,22 @@ The housing was designed in parts in Fusion 360 and Rhino. The body was printed 
 -Form Derivation- 
 -screenshot of the model- 
 
+![image  housing v1](https://user-images.githubusercontent.com/92102729/167131545-17036342-0d00-4e21-b488-9d7141b45aef.JPG)
+![image  housing v2](https://user-images.githubusercontent.com/92102729/167131554-0253ea86-d0e9-44b5-8322-bc6ff2fdce78.JPG)
+
+
+
 ## Learnings
 
-Exploring MQTT and Data Management
+• Exploring MQTT and Data Management
 
-Structuring and combining multiple Sketches/codes together
+• (Hardware) boundaries of ESP8266 and ESP32
 
-Controlling and distributing voltage across components through the same MC
+• Structuring and combining multiple Sketches/codes together
 
-Intra-communication accross Micro-contollers
+• Controlling and distributing voltage across components through the same MC
+
+• Intra-communication accross Micro-contollers
 
 ## Trajectory
 
