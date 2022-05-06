@@ -75,7 +75,7 @@ The housing was designed in parts in Fusion 360 and Rhino. The body was printed 
 
 ### Results
 
-![Uploading MAIN-min.png…]()
+![MAIN-min](https://user-images.githubusercontent.com/92105497/167135932-6c6d9cba-4d29-41cb-86a6-7f2b246dd093.png)
 
 ![Product GIF](https://user-images.githubusercontent.com/92105497/167135523-e3987371-fa26-4edd-89ed-6c055741ff8b.gif)
 
