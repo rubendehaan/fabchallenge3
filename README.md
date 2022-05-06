@@ -31,10 +31,6 @@ Iterations of the setup
 
 
 ![image  setup v2 1](https://user-images.githubusercontent.com/92102729/167129919-90d66f11-47a6-41fd-8af3-78cd19b7d34e.png)
-
-![image  setup v1](https://user-images.githubusercontent.com/92102729/167130244-2d97be94-1014-4752-84ba-4ab0360c7091.png)
-![image  setup v2 2](https://user-images.githubusercontent.com/92102729/167130473-a067844f-21bd-4227-b68b-97cc70de8e90.png)
-
 ![image  setup v3](https://user-images.githubusercontent.com/92102729/167130733-9bc616ba-a887-4272-b52f-2492fa0d6c46.png)
 ![image  setup v4](https://user-images.githubusercontent.com/92102729/167130735-84029f48-1992-4cc8-8365-1c87f09bc379.png)
 ![image  setup v5](https://user-images.githubusercontent.com/92102729/167130745-19f0a157-6e55-4ffc-9f58-6427cb259c58.png)
@@ -51,11 +47,14 @@ The electronics were powered by an ESP32 Huzzah microcontroller and a 5V USB inp
 
 
 Version 6 circuitry setup  
-![image  setup v6](https://user-images.githubusercontent.com/92102729/167100742-edb46a03-8fa4-4b46-85b6-816ac4c8e586.png)
 
 
 ### Data Monitoring
+Our first intention was to run Musquitto on a Raspberry Pi to serve as broker for the MQTT protocal inbetween the DigitalOcean server and - initially - ESP8266.
 
+
+![image  setup v1](https://user-images.githubusercontent.com/92102729/167130244-2d97be94-1014-4752-84ba-4ab0360c7091.png)
+![image  setup v2 2](https://user-images.githubusercontent.com/92102729/167130473-a067844f-21bd-4227-b68b-97cc70de8e90.png)
 -Interaction Protocols-
 
 Text explaining this comes here.
