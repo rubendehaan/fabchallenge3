@@ -1,5 +1,5 @@
 ### Fab Challenge 3
-# Hybrid Monitor
+# Oracle - A Hybrid Medium Monitor
 ## Ethical Tool or artefact to Interact and Monitor Relevant Data
 The challenge comprised the developement from the Duckweed Incubator from Term I to a Distributed & Independent Monitoring Sysytem.
 
