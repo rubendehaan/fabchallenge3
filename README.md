@@ -40,10 +40,7 @@ Iterations of the setup
 
 ### Circuit Evolution
 
-The electronics were powered by an ESP32 Huzzah microcontroller and a 5V USB input supporting the form factor and modes of connectivity. The evolution of the circuit occured in phases, with addition of one sensor at a time; starting with Temperature sensor to the Moisture sensor at last.
-
-
-Version 6 circuitry setup  
+The electronics were powered by an ESP32 Huzzah microcontroller and a 5V USB input supporting the form factor and modes of connectivity. The evolution of the circuit occured in phases, with addition of one sensor at a time; starting with Temperature sensor to the Moisture sensor at last.  
 
 
 ### Data Monitoring
