@@ -32,8 +32,9 @@ Iterations of the setup
 
 ![image  setup v2 1](https://user-images.githubusercontent.com/92102729/167129919-90d66f11-47a6-41fd-8af3-78cd19b7d34e.png)
 
+![image  setup v1](https://user-images.githubusercontent.com/92102729/167130244-2d97be94-1014-4752-84ba-4ab0360c7091.png)
 
-![image  setup v1](https://user-images.githubusercontent.com/92102729/167129431-133170ff-f6be-4bb6-9bef-b88d47c169fa.png)
+
 ![image  setup v2 2](https://user-images.githubusercontent.com/92102729/167129927-05fd27bb-4f29-4696-94ef-9306ae9e7560.png)
 
 ![image  setup v3](https://user-images.githubusercontent.com/92102729/167129586-acd61225-6a7f-47eb-8a6e-ef359f743c8d.png)
