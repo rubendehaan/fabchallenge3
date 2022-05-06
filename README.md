@@ -12,6 +12,7 @@ The Aim was to design a physical module that could sit, embedd or float in a med
 
 The core aim was to monitor the health for the Duckweeed plants so that athey could be grown in a healthy efficient way, to control the nutrition and strains of protiens grown, for consumption in the later stage. The same system could be used my multiple individuals for any plants or mediums be it, aquatic plants, terrestrial plants or even compost.
 
+
 <img width="1162" alt="Micro Plan" src="https://user-images.githubusercontent.com/92105497/167136527-aeecaa52-f796-4fcc-8a2c-95d408d79d9b.png">
 
 ## Ideation
