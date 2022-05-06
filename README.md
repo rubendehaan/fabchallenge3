@@ -54,7 +54,8 @@ Our first intention was to run Musquitto on a Raspberry Pi to serve as broker fo
 
 
 ![image  setup v1](https://user-images.githubusercontent.com/92102729/167130244-2d97be94-1014-4752-84ba-4ab0360c7091.png)
-![image  setup v2 2](https://user-images.githubusercontent.com/92102729/167130473-a067844f-21bd-4227-b68b-97cc70de8e90.png)
+![image  setup v2](https://user-images.githubusercontent.com/92102729/167131889-a33cc134-3109-4ba6-9ca3-d24d767aa5f2.png)
+
 -Interaction Protocols-
 
 Text explaining this comes here.
