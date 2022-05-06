@@ -1,11 +1,12 @@
 ### Fab Challenge 3
-# Ethical Tool or artefact to Interact and Monitor Relevant Data
+# Hybrid Monitor
+## Ethical Tool or artefact to Interact and Monitor Relevant Data
 The challenge comprised the developement from the Duckweed Incubator from Term I to a Distributed & Independent Monitoring Sysytem.
 
 -Miro Interests-
 -Overall Plan Drawing- 
 
-## Hybrid Monitor
+## Bio
 The Aim was to design a physical module that could sit, embedd or float in a medium to monitor it's health. The data was measured in variables like Ambient Light access, Aerial Temperature, Media Temeperature, Moisture etc, and shared to an online dashboard for universal web access. The main qualities that guided every step and usage of components were the 'hybrid-ness', freedom and transparency of the data captured.
 
 -Sensors used and Data captured diagram-
