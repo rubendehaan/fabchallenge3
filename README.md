@@ -6,7 +6,7 @@ The challenge comprised the developement from the Duckweed Incubator from Term I
 -Miro Interests-
 -Overall Plan Drawing- 
 
-## Bio
+## Brief
 The Aim was to design a physical module that could sit, embedd or float in a medium to monitor it's health. The data was measured in variables like Ambient Light access, Aerial Temperature, Media Temeperature, Moisture etc, and shared to an online dashboard for universal web access. The main qualities that guided every step and usage of components were the 'hybrid-ness', freedom and transparency of the data captured.
 
 -Sensors used and Data captured diagram-
